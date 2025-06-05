@@ -1,0 +1,5 @@
+terraform.tfstate
+*.pem
+*.key
+*.zip
+.terraform/
